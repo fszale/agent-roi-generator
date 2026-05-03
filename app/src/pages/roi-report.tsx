@@ -209,7 +209,7 @@ export default function RoiReport() {
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Button asChild size="lg" className="font-mono" data-testid="button-book-cta">
-              <a href="https://solidcage.com/book" target="_blank" rel="noreferrer">
+              <a href="https://crm.solidcage.com/widget/bookings/filip-szalewicz-fractional-cto-calendar-vfs0lblxh" target="_blank" rel="noreferrer">
                 Book a Strategy Session <ExternalLink className="ml-2 h-4 w-4" />
               </a>
             </Button>
