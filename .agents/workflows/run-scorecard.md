@@ -78,7 +78,7 @@ Two paths:
 
 1. **Run the ROI generator** on whatever workflow looks like the
    highest-leverage first agent given the scorecard result.
-2. **Book a strategy session** at `solidcage.com/book` and bring the
+2. **Book a strategy session** at `crm.solidcage.com` and bring the
    scorecard result (and ideally the multi-stakeholder spread) to the
    conversation.
 
