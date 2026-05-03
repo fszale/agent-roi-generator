@@ -1,0 +1,47 @@
+{
+  "dimensions": {
+    "processClarity": {
+      "label": "Process Clarity",
+      "weight": 1.5,
+      "description": "How well-defined the underlying business process is."
+    },
+    "dataReadiness": {
+      "label": "Data Readiness",
+      "weight": 2.0,
+      "description": "Quality and accessibility of the data the workflow needs."
+    },
+    "metricLeverage": {
+      "label": "Metric Leverage",
+      "weight": 2.0,
+      "description": "How meaningful the gap between current and target metric is."
+    },
+    "teamCapacity": {
+      "label": "Team Capacity",
+      "weight": 1.0,
+      "description": "Whether the team can run pilots and iterate."
+    },
+    "complexity": {
+      "label": "Implementation Complexity",
+      "weight": 1.5,
+      "description": "Inverted: lower complexity = higher score.",
+      "inverted": true
+    },
+    "timelinePressure": {
+      "label": "Timeline Pressure",
+      "weight": 1.0,
+      "description": "How urgent the desired delivery is. Inverted: too short hurts.",
+      "inverted": true
+    }
+  },
+  "stageThresholds": {
+    "high": 75,
+    "medium": 55,
+    "low": 35
+  },
+  "complexityMap": {
+    "Low": 2,
+    "Medium": 5,
+    "High": 8,
+    "Very High": 10
+  }
+}
