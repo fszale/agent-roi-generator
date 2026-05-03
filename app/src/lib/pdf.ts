@@ -156,7 +156,7 @@ export function renderRoiPdf(intake: IntakeData, score: ROIScoreResult): PdfRend
   doc.setFont("helvetica", "normal");
   doc.setFontSize(9);
   doc.setTextColor(ORANGE);
-  doc.text("solidcage.com/book", margin, doc.internal.pageSize.getHeight() - 16);
+  doc.text("crm.solidcage.com/book", margin, doc.internal.pageSize.getHeight() - 16);
   sections.push("footer");
 
   return { doc, sections };
