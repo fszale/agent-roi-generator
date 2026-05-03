@@ -187,7 +187,7 @@ export default function ScorecardResults() {
               variant="outline"
               className="font-mono bg-transparent border-background/30 text-background hover:bg-background/10 hover:text-background"
             >
-              <a href="https://solidcage.com/book" target="_blank" rel="noreferrer">
+              <a href="https://crm.solidcage.com/widget/bookings/filip-szalewicz-fractional-cto-calendar-vfs0lblxh" target="_blank" rel="noreferrer">
                 Book a Readiness Review <ExternalLink className="ml-2 h-4 w-4" />
               </a>
             </Button>
