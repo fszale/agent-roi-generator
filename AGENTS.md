@@ -39,7 +39,7 @@ These rules exist because they are the brand promise of the tools:
   `#EB6928` primary, blue `#387CBD` accent. JetBrains Mono for
   numbers, eyebrows, and code-feeling UI. Inter for prose. Do not
   introduce a third typeface.
-- **CTA.** Every flow ends at `https://solidcage.com/book`. Do not
+- **CTA.** Every flow ends at `https://crm.solidcage.com/widget/bookings/filip-szalewicz-fractional-cto-calendar-vfs0lblxh`. Do not
   swap this URL or add competing CTAs.
 
 ---
@@ -113,7 +113,7 @@ A change is only done when:
 
 - Add a backend service of any kind
 - Add an analytics or tracking script
-- Change `solidcage.com/book` to anything else
+- Change the booking CTA URL (`crm.solidcage.com/widget/bookings/...`) to anything else
 - Move scoring into an LLM call
 - Replace the rule-based recommendation with a generative one
 - Remove any of the 5 readiness dimensions
