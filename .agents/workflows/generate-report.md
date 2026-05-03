@@ -102,7 +102,7 @@ The report URL is the export.
 
 ## Step 8 — Book the next call
 
-The CTA at the bottom of the report goes to `solidcage.com/book`.
+The CTA at the bottom of the report goes to `crm.solidcage.com` (the booking widget).
 That's the next step. The operator now has a one-page artifact to
 bring to the strategy session — that artifact is what makes the
 session productive.
