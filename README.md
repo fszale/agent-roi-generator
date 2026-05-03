@@ -52,7 +52,7 @@ Alignment**. The output is:
 - A recommended next step keyed to the stage
 - A shareable URL for re-running or comparing later
 
-Both tools route to **`solidcage.com/book`** for a strategy session as
+Both tools route to **[Book a session](https://crm.solidcage.com/widget/bookings/filip-szalewicz-fractional-cto-calendar-vfs0lblxh)** for a strategy session as
 the call-to-action.
 
 ---
@@ -103,7 +103,6 @@ If you're a human or agent contributor, **read in this order**:
 
 Source is mirrored publicly so the methodology can be inspected and
 forked. For commercial use of the rule-based engine in your own product,
-or to bring this into your operating cadence, **book a session**:
-[solidcage.com/book](https://solidcage.com/book).
+or to bring this into your operating cadence, **[book a session](https://crm.solidcage.com/widget/bookings/filip-szalewicz-fractional-cto-calendar-vfs0lblxh)**.
 
 Filip Szalewicz · [solidcage.com](https://solidcage.com)
