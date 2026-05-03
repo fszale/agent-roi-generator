@@ -42,7 +42,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
 
           <div className="flex items-center gap-4">
             <Button asChild variant="default" size="sm" className="font-mono">
-              <a href="https://solidcage.com/book" target="_blank" rel="noreferrer" data-testid="button-book-header">
+              <a href="https://crm.solidcage.com/widget/bookings/filip-szalewicz-fractional-cto-calendar-vfs0lblxh" target="_blank" rel="noreferrer" data-testid="button-book-header">
                 Book Session
               </a>
             </Button>
@@ -82,7 +82,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
               kernel
             </a>
             <a
-              href="https://solidcage.com/book"
+              href="https://crm.solidcage.com/widget/bookings/filip-szalewicz-fractional-cto-calendar-vfs0lblxh"
               className="text-muted-foreground hover:text-primary transition-colors"
               target="_blank"
               rel="noreferrer"
