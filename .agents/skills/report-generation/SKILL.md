@@ -31,7 +31,7 @@ PDF. Do not reorder.
 6. **30/60/90 roadmap** — three rows, each with a window, a theme,
    2–4 deliverables, and an exit criterion.
 7. **Footer CTA** — a single, clear call to book a strategy session
-   at `solidcage.com/book`.
+   at `crm.solidcage.com`.
 
 ---
 
@@ -52,7 +52,7 @@ The PDF is the **portable canonical version** of the report. It must:
 
 - Fit US Letter (8.5×11), single column
 - Render every section listed above
-- Include `solidcage.com/book` in the footer
+- Include `crm.solidcage.com/book` in the footer
 - Use brand colors at all times: navy `#0E1320`, orange `#EB6928`,
   blue `#387CBD`, cream `#F4F1EC`, mid-gray `#6B7280`
 - Be re-paginated cleanly — if a section would split awkwardly, the
