@@ -53,7 +53,7 @@ The tools are free. They exist to do three things:
 3. **Anchor the brand.** "The person whose ROI tool everyone forwarded"
    is a better positioning than "the consultant with a deck about AI".
 
-The CTA is `solidcage.com/book`. That's the funnel.
+The CTA is the booking link at `crm.solidcage.com`. That's the funnel.
 
 ## Voice
 
